@@ -25,9 +25,7 @@
 
 ### Productivity and Notes
 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-[<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />](https://www.linkedin.com/in/shailesh-singh-8a5108124/)
+[<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=143485223644&campaign=18442427757&creative=656562805594&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p73345677068&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gad_source=1&gclid=EAIaIQobChMItZzm6pOUhgMVAxKDAx1-9Qj_EAAYASAAEgKGWfD_BwE&gclsrc=aw.ds)
 
 ## My Absolute Favorites:
 
