@@ -27,6 +27,8 @@
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+[<img src="![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)" />](https://www.linkedin.com/in/shailesh-singh-8a5108124/)
+
 ## My Absolute Favorites:
 
 💻   I love exploring new technologies and building cool stuff.
