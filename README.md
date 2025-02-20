@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Shailesh Singh! 😃
 
 ## 🚀 About Me  
-I'm an **Android Developer** with **6+ years** of experience, passionate about building high-quality mobile applications. I specialize in **Kotlin, Java, and Jetpack Compose**, focusing on performance optimization and seamless user experience.  
+I'm an **Android Developer** with **7.5+ years** of experience, passionate about building high-quality mobile applications. I specialize in **Kotlin, Java, and Jetpack Compose**, focusing on performance optimization and seamless user experience.  
 
 - 🔭 **Current Role:** Android Developer at [Tata Cliq](https://www.tatacliq.com/) (payroll of TEKsystems).  
 - 💡 **Expertise:** MVVM, Clean Architecture, API integrations, Jetpack Compose, and Performance Optimization.  
@@ -45,7 +45,7 @@ Enhanced **Home, Product Listing, Cart, and Wishlist** modules, leading to bette
 ### 🔹 **Tata CLiQ Luxury**
 Developed and optimized multiple modules, improving app functionality and performance.  
 
-### 🔹 **Kiveez (Social & Utility App)**
+### 🔹 **Keeviz (Social & Marketplace App)**
 A feature-rich **social networking** and **marketplace** app integrating multiple functionalities:
 - **Chat Module:** One-on-one and group chat with audio/video calling (like WhatsApp).  
 - **Social Feed:** Interest-based post sharing (like Instagram) using hashtags.  
@@ -58,6 +58,12 @@ A mobile solution for **technicians**, enabling:
 - **Location-based Attendance:** Technicians can mark attendance **only within 100m** of their assigned site.  
 - **Inventory Management:** Logs all parts used for maintenance/service.  
 - **Task Scheduling:** Assigns and tracks site visits dynamically.  
+
+### 🔹 **AEC News (News App)**
+A news application featuring:
+- **Text-to-Speech Functionality** for hands-free news consumption.  
+- **Breaking News Alerts & Notifications** to keep users updated.  
+- **Offline Reading Support** for better accessibility.  
 
 ### 🔹 **My Event App**
 Designed a full-fledged **event scheduling** system with task management.  
