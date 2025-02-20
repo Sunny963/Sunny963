@@ -60,10 +60,10 @@ A mobile solution for **technicians**, enabling:
 - **Task Scheduling:** Assigns and tracks site visits dynamically.  
 
 ### 🔹 **AEC News (News App)**
-A news application featuring:
+A dynamic news application featuring:
 - **Text-to-Speech Functionality** for hands-free news consumption.  
 - **Breaking News Alerts & Notifications** to keep users updated.  
-- **Offline Reading Support** for better accessibility.  
+- **Country-wise News Filtering** with categories such as **Sports, Health, Politics, Technology**, and more.  
 
 ### 🔹 **My Event App**
 Designed a full-fledged **event scheduling** system with task management.  
