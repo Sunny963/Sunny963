@@ -39,11 +39,34 @@ I'm an **Android Developer** with **6+ years** of experience, passionate about b
 
 ## 📱 Featured Projects  
 
-- **Tata CLiQ (Shopping App):** Improved **Home, Product Listing, Cart, and Wishlist** modules, leading to better user satisfaction.  
-- **Tata CLiQ Luxury:** Developed and optimized multiple modules, enhancing performance.  
-- **My Event App:** Designed a full-fledged event scheduling system with task management.  
-- **Saudi Arabia Academic Calendar:** Created a cultural calendar app used by 500+ educators.  
-- **Logistica India:** Built a logistics management app, streamlining stock monitoring.  
+### 🔹 **Tata CLiQ (Shopping App)**
+Enhanced **Home, Product Listing, Cart, and Wishlist** modules, leading to better user satisfaction.  
+
+### 🔹 **Tata CLiQ Luxury**
+Developed and optimized multiple modules, improving app functionality and performance.  
+
+### 🔹 **Keeviz (Social & Utility App)**
+A feature-rich **social networking** and **marketplace** app integrating multiple functionalities:
+- **Chat Module:** One-on-one and group chat with audio/video calling (like WhatsApp).  
+- **Social Feed:** Interest-based post sharing (like Instagram) using hashtags.  
+- **Job & Candidate Search:** Integrated Google Maps for location-based job search.  
+- **Matrimony Section:** Users can match and connect based on preferences.  
+- **Marketplace:** A classified section (like OLX/Facebook Marketplace) for selling/buying new or used goods.  
+
+### 🔹 **ACME (Technician Management App)**
+A mobile solution for **technicians**, enabling:
+- **Location-based Attendance:** Technicians can mark attendance **only within 100m** of their assigned site.  
+- **Inventory Management:** Logs all parts used for maintenance/service.  
+- **Task Scheduling:** Assigns and tracks site visits dynamically.  
+
+### 🔹 **My Event App**
+Designed a full-fledged **event scheduling** system with task management.  
+
+### 🔹 **Saudi Arabia Academic Calendar**
+Created a **culturally adapted calendar** app used by **500+ educators** with event notifications.  
+
+### 🔹 **Logistica India**
+Built a **logistics management** app for **stock monitoring and warehouse space optimization**.  
 
 ---
 
