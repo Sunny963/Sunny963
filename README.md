@@ -45,7 +45,7 @@ Enhanced **Home, Product Listing, Cart, and Wishlist** modules, leading to bette
 ### 🔹 **Tata CLiQ Luxury**
 Developed and optimized multiple modules, improving app functionality and performance.  
 
-### 🔹 **Keeviz (Social & Utility App)**
+### 🔹 **Kiveez (Social & Utility App)**
 A feature-rich **social networking** and **marketplace** app integrating multiple functionalities:
 - **Chat Module:** One-on-one and group chat with audio/video calling (like WhatsApp).  
 - **Social Feed:** Interest-based post sharing (like Instagram) using hashtags.  
