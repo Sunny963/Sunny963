@@ -65,6 +65,13 @@ A dynamic news application featuring:
 - **Breaking News Alerts & Notifications** to keep users updated.  
 - **Country-wise News Filtering** with categories such as **Sports, Health, Politics, Technology**, and more.  
 
+### 🔹 **PBW (Professional Beauty World)**
+A **community-driven cosmetics shopping** app with:
+- **User Interest-Based Surveys** to personalize recommendations.  
+- **Offline-to-Online Shopping Transition** for beauty products.  
+- **Exhibition Ticket Booking System** for offline events.  
+- **QR Code Scanner Integration** for easy ticket validation.  
+
 ### 🔹 **My Event App**
 Designed a full-fledged **event scheduling** system with task management.  
 
