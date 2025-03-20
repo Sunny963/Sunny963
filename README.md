@@ -1,16 +1,17 @@
 # Hi there 👋, I'm Shailesh Singh! 😃
 
 ## 🚀 About Me  
-I'm an **Android Developer** with **7.5+ years** of experience, passionate about building high-quality mobile applications. I specialize in **Kotlin, Java, and Jetpack Compose**, focusing on performance optimization and seamless user experience.  
+I'm an **Experienced Android Developer** with **7.5+ years** of expertise in building scalable, high-performance mobile applications. Skilled in **Kotlin**, **Java**, and **Jetpack Compose**, I specialize in developing intuitive and feature-rich apps that deliver exceptional user experiences.  
 
-- 🔭 **Current Role:** Android Developer at [Tata Cliq](https://www.tatacliq.com/) (payroll of TEKsystems).  
-- 💡 **Expertise:** MVVM, Clean Architecture, API integrations, Jetpack Compose, and Performance Optimization.  
+- 🔭 **Current Role:** Android Developer at [Tata CLiQ](https://www.tatacliq.com/) (payroll of TEKsystems).  
+- 💡 **Expertise:** MVVM, Clean Architecture, API Integrations, Firebase Services, and Performance Optimization.  
 - 🏆 **Achievements:**  
-  - Reduced app crashes by **15%** and improved load times by **20%**.  
-  - Led REST API integrations, optimizing data retrieval by **20%**.  
-  - Played a key role in enhancing user retention by **25%**.  
-- 🌱 **Learning:** Scalability, System Design, and Advanced Android Architectures.  
-- 🎯 **Goal:** To create impactful digital solutions with optimized performance.  
+  - Awarded **TUL Tech Champion Certificate** for outstanding code support at Tata CLiQ.  
+  - Reduced app crashes by **15%** and improved load times by **20%** through performance optimizations.  
+  - Led REST API integrations, enhancing data retrieval efficiency by **20%**.  
+  - Improved app stability and performance for multiple e-commerce and utility apps.  
+- 🌱 **Learning:** Advanced Android Architectures, System Design, and Flutter for cross-platform development.  
+- 🎯 **Goal:** To create impactful digital solutions with optimized performance and seamless user experiences.  
 
 ---
 
@@ -26,6 +27,7 @@ I'm an **Android Developer** with **7.5+ years** of experience, passionate about
 ![Room Database](https://img.shields.io/badge/room%20database-FFD700?style=for-the-badge&logo=sqlite&logoColor=black)  
 ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![GitLab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)  
+![Gradle](https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)  
 
 ### API & Backend  
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white)  
@@ -40,46 +42,54 @@ I'm an **Android Developer** with **7.5+ years** of experience, passionate about
 ## 📱 Featured Projects  
 
 ### 🔹 **Tata CLiQ (Shopping App)**
-Enhanced **Home, Product Listing, Cart, and Wishlist** modules, leading to better user satisfaction.  
+Enhanced critical modules like **Home**, **Product Listing**, **Cart**, and **Wishlist**, improving performance and user satisfaction. Played a key role in bug fixes, feature enhancements, and optimizing Gradle builds.  
 
 ### 🔹 **Tata CLiQ Luxury**
-Developed and optimized multiple modules, improving app functionality and performance.  
+Developed and maintained key modules, ensuring smooth functionality and performance improvements.  
 
 ### 🔹 **Keeviz (Social & Marketplace App)**
-A feature-rich **social networking** and **marketplace** app integrating multiple functionalities:
+A multi-functional app featuring:  
 - **Chat Module:** One-on-one and group chat with audio/video calling (like WhatsApp).  
-- **Social Feed:** Interest-based post sharing (like Instagram) using hashtags.  
+- **Social Feed:** Interest-based content sharing with hashtags.  
 - **Job & Candidate Search:** Integrated Google Maps for location-based job search.  
-- **Matrimony Section:** Users can match and connect based on preferences.  
-- **Marketplace:** A classified section (like OLX/Facebook Marketplace) for selling/buying new or used goods.  
+- **Matrimony Section:** Match and connect based on preferences.  
+- **Marketplace:** OLX/Facebook Marketplace-style platform for buying and selling products.  
 
 ### 🔹 **ACME (Technician Management App)**
-A mobile solution for **technicians**, enabling:
-- **Location-based Attendance:** Technicians can mark attendance **only within 100m** of their assigned site.  
-- **Inventory Management:** Logs all parts used for maintenance/service.  
-- **Task Scheduling:** Assigns and tracks site visits dynamically.  
+A mobile solution designed for **on-site technicians** with:  
+- **Location-based Attendance:** Technicians can mark attendance only within **100m** of their assigned site.  
+- **Inventory Management:** Logs parts used for maintenance/service.  
+- **Task Scheduling:** Assigns and tracks technician visits dynamically.  
 
 ### 🔹 **AEC News (News App)**
-A dynamic news application featuring:
+A dynamic news platform with:  
 - **Text-to-Speech Functionality** for hands-free news consumption.  
 - **Breaking News Alerts & Notifications** to keep users updated.  
-- **Country-wise News Filtering** with categories such as **Sports, Health, Politics, Technology**, and more.  
+- **Country-wise News Filtering** with categories such as **Sports**, **Health**, and **Technology**.  
 
 ### 🔹 **PBW (Professional Beauty World)**
-A **community-driven cosmetics shopping** app with:
-- **User Interest-Based Surveys** to personalize recommendations.  
-- **Offline-to-Online Shopping Transition** for beauty products.  
-- **Exhibition Ticket Booking System** for offline events.  
-- **QR Code Scanner Integration** for easy ticket validation.  
+A **beauty product shopping** app featuring:  
+- **Interest-Based Surveys** for personalized product suggestions.  
+- **Offline-to-Online Shopping Integration** for seamless browsing and purchasing.  
+- **QR Code Scanner Integration** for exhibition ticket validation.  
 
 ### 🔹 **My Event App**
-Designed a full-fledged **event scheduling** system with task management.  
+A comprehensive **event scheduling** app with integrated task management, built from scratch with optimized performance and a user-friendly interface.  
 
 ### 🔹 **Saudi Arabia Academic Calendar**
-Created a **culturally adapted calendar** app used by **500+ educators** with event notifications.  
+Developed a **culturally adapted calendar** app with customizable event notifications, now serving over **500+ educators** across the region.  
 
 ### 🔹 **Logistica India**
-Built a **logistics management** app for **stock monitoring and warehouse space optimization**.  
+Created a **logistics management** app designed for **stock monitoring** and **warehouse optimization**.  
+
+---
+
+## 🏆 Achievements  
+
+- Awarded **TUL Tech Champion Certificate** for exceptional technical support and code contributions at Tata CLiQ.  
+- Successfully optimized Gradle builds, reducing APK size and improving build speed.  
+- Proven track record of improving app stability, reducing crashes by **15%**, and enhancing performance.  
+- Expertise in implementing **MVVM Architecture** and adopting best coding practices for scalable applications.  
 
 ---
 
@@ -87,5 +97,3 @@ Built a **logistics management** app for **stock monitoring and warehouse space 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailesh-singh-8a5108124/)  
 [![Gmail](https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:shailesh2771993@gmail.com)  
-
----
