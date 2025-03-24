@@ -3,6 +3,7 @@ description: Experienced Android Developer with 7.5+ years of expertise in mobil
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
+  # Disable Recent Posts Section
 show_excerpts: false
 collections:
   posts:
