@@ -1,7 +1,12 @@
 ---
 layout: home
-title: ""
+title: Shailesh Singh
 ---
+
+{% for post in site.posts %}
+  <!-- Remove this entire block -->
+{% endfor %}
+
 
 
 ## 🚀 About Me  
