@@ -1,17 +1,30 @@
+---
+layout: home
+author_profile: true
+title: "Shailesh Singh | Android Developer Portfolio"
+---
+
 # Hi there 👋, I'm Shailesh Singh! 😃
 
 ## 🚀 About Me  
 I'm an **Experienced Android Developer** with **7.5+ years** of expertise in building scalable, high-performance mobile applications. Skilled in **Kotlin**, **Java**, and **Jetpack Compose**, I specialize in developing intuitive and feature-rich apps that deliver exceptional user experiences.  
 
-- 🔭 **Current Role:** Android Developer at [Tata CLiQ](https://www.tatacliq.com/) (payroll of TEKsystems).  
-- 💡 **Expertise:** MVVM, Clean Architecture, API Integrations, Firebase Services, and Performance Optimization.  
-- 🏆 **Achievements:**  
-  - Awarded **TUL Tech Champion Certificate** for outstanding code support at Tata CLiQ.  
-  - Reduced app crashes by **15%** and improved load times by **20%** through performance optimizations.  
-  - Led REST API integrations, enhancing data retrieval efficiency by **20%**.  
-  - Improved app stability and performance for multiple e-commerce and utility apps.  
-- 🌱 **Learning:** Advanced Android Architectures, System Design, and Flutter for cross-platform development.  
-- 🎯 **Goal:** To create impactful digital solutions with optimized performance and seamless user experiences.  
+### 💼 Current Role  
+🔭 **Android Developer** at [Tata CLiQ](https://www.tatacliq.com/) (payroll of TEKsystems).  
+
+### 🧩 Expertise  
+💡 **MVVM**, **Clean Architecture**, **API Integrations**, **Firebase Services**, and **Performance Optimization**.  
+
+### 🏆 Achievements  
+- Awarded **TUL Tech Champion Certificate** for outstanding code support at Tata CLiQ.  
+- Reduced app crashes by **15%** and improved load times by **20%** through performance optimizations.  
+- Led REST API integrations, enhancing data retrieval efficiency by **20%**.  
+- Improved app stability and performance for multiple e-commerce and utility apps.  
+
+### 🌱 Learning  
+Exploring **Advanced Android Architectures**, **System Design**, and **Flutter** for cross-platform development.  
+
+🎯 **Goal:** To create impactful digital solutions with optimized performance and seamless user experiences.  
 
 ---
 
