@@ -1,5 +1,5 @@
-title: Shailesh Singh | Android Developer
-description: Experienced Android Developer | Kotlin | Java | Jetpack Compose
+title: "Shailesh Singh | Android Developer"
+description: ""
 show_downloads: false
 remote_theme: mmistakes/minimal-mistakes
 plugins:
@@ -9,5 +9,3 @@ show_excerpts: false
 collections:
   posts:
     output: false
-
-
