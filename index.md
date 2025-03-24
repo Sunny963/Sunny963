@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Shailesh Singh | Android Developer
+title: ""
 ---
 
 
