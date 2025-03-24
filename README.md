@@ -55,24 +55,6 @@ A multi-functional app featuring:
 - **Matrimony Section:** Match and connect based on preferences.  
 - **Marketplace:** OLX/Facebook Marketplace-style platform for buying and selling products.  
 
-### 🔹 **ACME (Technician Management App)**
-A mobile solution designed for **on-site technicians** with:  
-- **Location-based Attendance:** Technicians can mark attendance only within **100m** of their assigned site.  
-- **Inventory Management:** Logs parts used for maintenance/service.  
-- **Task Scheduling:** Assigns and tracks technician visits dynamically.  
-
-### 🔹 **AEC News (News App)**
-A dynamic news platform with:  
-- **Text-to-Speech Functionality** for hands-free news consumption.  
-- **Breaking News Alerts & Notifications** to keep users updated.  
-- **Country-wise News Filtering** with categories such as **Sports**, **Health**, and **Technology**.  
-
-### 🔹 **PBW (Professional Beauty World)**
-A **beauty product shopping** app featuring:  
-- **Interest-Based Surveys** for personalized product suggestions.  
-- **Offline-to-Online Shopping Integration** for seamless browsing and purchasing.  
-- **QR Code Scanner Integration** for exhibition ticket validation.  
-
 ### 🔹 **My Event App**
 A comprehensive **event scheduling** app with integrated task management, built from scratch with optimized performance and a user-friendly interface.  
 
@@ -81,6 +63,14 @@ Developed a **culturally adapted calendar** app with customizable event notifica
 
 ### 🔹 **Logistica India**
 Created a **logistics management** app designed for **stock monitoring** and **warehouse optimization**.  
+
+---
+
+## 🏅 Certifications  
+📜 Check out my certifications here: [**My Certificates Portfolio**](https://sunny963.github.io/Certificates/)  
+
+- **TUL Tech Champion Certificate** for exceptional code support at Tata CLiQ  
+- Certifications in **Android Development**, **Kotlin**, **Jetpack Compose**, and more  
 
 ---
 
