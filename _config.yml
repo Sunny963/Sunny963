@@ -4,8 +4,8 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
   # Disable Recent Posts Section
+paginate: 0
 show_excerpts: false
-paginate: false
 collections:
   posts:
     output: false
