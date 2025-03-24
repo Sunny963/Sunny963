@@ -3,11 +3,6 @@ layout: home
 title: Shailesh Singh
 ---
 
-{% for post in site.posts %}
-  <!-- Remove this entire block -->
-{% endfor %}
-
-
 
 ## 🚀 About Me  
 I'm an **Experienced Android Developer** with **7.5+ years** of expertise in building scalable, high-performance mobile applications. Skilled in **Kotlin**, **Java**, and **Jetpack Compose**, I specialize in developing intuitive and feature-rich apps that deliver exceptional user experiences.  
