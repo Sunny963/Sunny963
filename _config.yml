@@ -1,4 +1,8 @@
-title: Shailesh Singh
-description: Experienced Android Developer | Kotlin | Java | Jetpack Compose
-show_downloads: false
-theme: jekyll-theme-minimal
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-theme-minimal
+
+include: ["assets/css/style.css"]
