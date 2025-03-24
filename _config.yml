@@ -5,7 +5,7 @@ plugins:
   - jekyll-include-cache
   # Disable Recent Posts Section
 show_excerpts: false
-paginate: 0
+paginate: false
 collections:
   posts:
     output: false
