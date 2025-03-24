@@ -1,8 +1,9 @@
 ---
-layout: home
-title: ""
+layout: splash
+title: Shailesh Singh | Android Developer
 ---
 
+# Shailesh Singh | Android Developer
 
 ## 🚀 About Me  
 I'm an **Experienced Android Developer** with **7.5+ years** of expertise in building scalable, high-performance mobile applications. Skilled in **Kotlin**, **Java**, and **Jetpack Compose**, I specialize in developing intuitive and feature-rich apps that deliver exceptional user experiences.  
