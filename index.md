@@ -1,8 +1,9 @@
 ---
-layout: single
-author_profile: true
-title: "Shailesh Singh | Android Developer"
+layout: home
+title: Shailesh Singh
 ---
+
+# Shailesh Singh | Android Developer
 
 
 ## 🚀 About Me  
