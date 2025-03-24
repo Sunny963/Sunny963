@@ -1,4 +1,7 @@
 title: Shailesh Singh
 description: Experienced Android Developer | Kotlin | Java | Jetpack Compose
 show_downloads: false
-theme: jekyll-theme-cayman
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+
